@@ -1,4 +1,3 @@
-# hng-stage4-climate-discourse-sentiment-analysis
 # 🌍 Climate Discourse Analytics on Twitter
 
 ## 🧾 Project Overview
@@ -190,8 +189,7 @@ Completed as part of the HNG Data Analytics Internship Program.
 
 ---
 
-👤 Author
-
-Emmanuel Achugo
-Data Analyst
+## 👤 Author  
+Emmanuel Achugo  
+Data Analyst  
 SQL • Python • Power BI • Machine Learning

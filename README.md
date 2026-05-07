@@ -160,7 +160,7 @@ The dashboard is organized into three analytical layers:
 ```bash
 climate-twitter-analysis/
 ├── sql/
-│   └── climate_analysis.sql
+│   └── climate_tweet_analysis.sql
 ├── report/
 │   └── Climate_Change_Analysis_Report.docx
 ├── assets/
